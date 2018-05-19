@@ -1,6 +1,8 @@
 # CMU-10702-StatML
 10-702 Statistical Machine Learning, Spring 2018 - CMU MLD
 
+On the intsersection of Statistics and Machine Learning. [Syllabus](./syllabus.pdf).
+ 
 Course homepage: http://www.stat.cmu.edu/~larry/=sml/
 
 ## Lecture Notes
@@ -32,3 +34,14 @@ Course homepage: http://www.stat.cmu.edu/~larry/=sml/
 - [Manifolds ](./12_Manifolds.pdf)
 
 - [Two Sample Testing ](./13_TwoSample.pdf)
+
+## Additional Notes
+- [Linear Classifiers](./linearclassification_optional.pdf)
+
+- [Function Spaces](./functionspaces_optional.pdf)
+
+- [Sparsity ](./Sparsity_optional.pdf)
+
+
+
+ 
